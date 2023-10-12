@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.App {
+    height: 100vh;
+}

@@ -1,0 +1,11 @@
+.user-details p {
+    margin: 0;
+}
+
+.user-details .pets-links-list {
+    margin-bottom: 1rem;
+}
+
+.user-details .details-headers {
+    font-weight: bold;
+}

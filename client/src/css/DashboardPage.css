@@ -1,0 +1,25 @@
+.dashboard-page table {
+    width: 80%;
+    margin-bottom: 1rem;
+}
+
+.dashboard-page tr {
+    border-bottom: 1px solid #e6e7e9;
+}
+
+.dashboard-page tr:hover:not(.highlighted-row):not(thead tr) {
+    background-color: #e6e7e9;
+}
+
+.dashboard-page td,
+th {
+    padding: 0.3rem;
+}
+
+.highlighted-row {
+    background-color: #DCF9D7;
+}
+
+.pet-button {
+    margin-right: 0.3rem;
+}

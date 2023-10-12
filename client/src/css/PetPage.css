@@ -1,0 +1,13 @@
+.content-wrap>h1 {
+    margin-bottom: 2rem;
+}
+
+.pet-name,
+.field-name {
+    font-weight: Bold;
+}
+
+.pet-picture {
+    width: 100%;
+    border-radius: 10px;
+}

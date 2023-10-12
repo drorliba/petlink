@@ -1,0 +1,30 @@
+.content-wrap>h1 {
+    margin-bottom: 2rem;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #2f7d31;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    color: #2f7d31;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 10px;
+}
+
+.card {
+    max-width: 12rem;
+}
+
+.card:hover {
+    cursor: pointer;
+}

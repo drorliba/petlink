@@ -1,0 +1,17 @@
+.content-wrap>h1 {
+    margin-bottom: 2rem;
+}
+
+.basic-search-controls {
+    display: flex;
+    /* align-items: flex-start; */
+}
+
+.advanced-search-controls {
+    display: flex;
+    align-items: flex-start;
+}
+
+.advanced-search-controls>* {
+    margin: 0 1rem;
+}

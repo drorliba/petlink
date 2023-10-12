@@ -1,0 +1,10 @@
+.page-wrapp {
+    display: flex;
+    justify-content: center;
+}
+
+.content-wrap {
+    height: 100%;
+    width: 72%;
+    padding: 1rem;
+}

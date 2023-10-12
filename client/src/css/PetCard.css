@@ -1,0 +1,18 @@
+.card-img-top {
+    height: 60%;
+    object-fit: cover;
+}
+
+.badge {
+    font-size: 0.5em;
+}
+
+.card-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heart-button {
+    width: 1.5rem;
+}

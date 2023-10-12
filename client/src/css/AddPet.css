@@ -1,0 +1,21 @@
+.page-wrapp {
+    display: flex;
+    justify-content: center;
+}
+
+.content-wrap {
+    height: 100%;
+    width: 72%;
+    padding: 1rem;
+}
+
+.content-wrap>h1 {
+    margin-bottom: 2rem;
+}
+
+.form-stack {
+    align-self: center;
+    margin-left: 5rem;
+
+    width: 50%;
+}

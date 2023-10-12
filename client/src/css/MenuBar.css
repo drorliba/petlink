@@ -1,0 +1,8 @@
+.menu-toolbar {
+    display: flex;
+}
+
+.menu-user-box {
+    position: absolute;
+    right: 2vw;
+}

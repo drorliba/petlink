@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;500;700&family=Kanit&display=swap');
+
+.landingPage {
+    height: 100%;
+    padding: 1rem;
+}
+
+.content-wrapper {
+    position: relative;
+    top: 25%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    height: 25vh;
+}
+
+.branding h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+}
+
+.logo-bold {
+    font-weight: 700;
+}
+
+.buttons-div {
+    position: relative;
+    right: 3%;
+    padding: 15px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.branding p {
+    font-size: 1.5rem;
+}
+
+.welcomeButton {
+    width: 22rem;
+}
